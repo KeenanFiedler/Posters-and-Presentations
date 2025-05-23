@@ -6,4 +6,4 @@ Files:
   - NOIRLab Presentation 8_5_24.pdf: Presentation for an internal presentation session for NOIRLab Astro Data Lab employees, given at NOIRLab in Tucson, AZ in August 2024.
   - Arizona Spacegrant Presentation 4_19_25.pdf: Presentation for a talk at the Spacegrant Intern Symposium, given at ASU SkySong in Scottsdale, AZ in April 2025.
       - Link to Recording of Presentation: https://youtu.be/ap_dWXxc7rA
-
+  - Engel Symposium Presenation 5_8_25.pdf: Presentation for a talk at the Lucy Engel Undergraduate Research Symposium, given at the University of Arizona Department of Physics in Tucson, AZ in May 2025.
