@@ -11,3 +11,5 @@ Files:
       - Link to Recording of Presentation: https://youtu.be/ap_dWXxc7rA
   - Engel Symposium Presenation 5_8_25.pdf: Presentation for a talk at the Lucy Engel Undergraduate Research Symposium, given at the University of Arizona Department of Physics in Tucson, AZ in May 2025.
       - Topic: Report on creating and completion of galaxy cluster simulation, with initial results and error analysis.
+  - NRAO Presentation 8_6_25.pdf: Presentation for an internal presentaion for NRAO Staff, gien at NRAO DSOC in Socorro, NM in August 2025.
+      - Topic: Report on the REU research in creatign a machine learning model to speed up the CLEAN algorithm.
